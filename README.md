@@ -1,6 +1,3 @@
-<img width="1447" height="2268" alt="image" src="https://github.com/user-attachments/assets/003e6981-af28-4e87-aeaf-386feb94095a" /># Enterprise-Network-Auditor
-PowerShell-based network auditing and troubleshooting tool for connectivity testing, DNS validation, gateway verification, port scanning and report generation.
-Enterprise Network Auditor | PowerShell
 Enterprise Network Auditor is a PowerShell-based network auditing and troubleshooting tool designed to help IT Support, Help Desk and System Administrators quickly validate network connectivity and identify common infrastructure issues.
 
 Features
